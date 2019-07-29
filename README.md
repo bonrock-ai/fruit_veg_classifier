@@ -1,4 +1,4 @@
-# fruit_veg_herb_classifier
+# fruit, veggie and herb classifier
 
 We intend to build an App that can **recognize most fruits, vegetables and herbs**, and **communicate most useful information** for each individual 
 
