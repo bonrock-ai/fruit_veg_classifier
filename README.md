@@ -1,6 +1,11 @@
 # fruit_veg_classifier
 
-We intend to build an App that can recognize most fruits and vegetables and provide most helpful information for each user to improve their health, to learn how to cook and to tell fun stories of their cross cultural experiences.
+We intend to build an App that can **recognize most fruits and vegetables** and provide most relevant information for each user 
+
+- to improve their health 
+- to learn how to cook 
+- to learn how to grow the plant
+- to tell fun stories of their cross cultural experiences
 
 The 1st stage of this app use the following dataset
 1. [Fruit 360 dataset](https://www.kaggle.com/moltean/fruits)
